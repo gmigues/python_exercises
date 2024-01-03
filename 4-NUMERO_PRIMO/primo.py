@@ -12,16 +12,3 @@ for i in num_list:
 else:
     print("El número es PRIMO")
     
-
-
-
-
-
-
-    # if i == number:
-    #     continue
-    # elif number % i == 0:
-    #     print("El número seleccionado no es primo " + str(i))
-    #     break
-    # else:
-    #     print("Es un número PRIMO ")
